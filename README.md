@@ -11,7 +11,7 @@
 ## 🎥 Concept & Problem-Solution Demo
 Watch our 1-minute overview explaining the communication barriers faced by sign language users, how **SignTalk AI** solves them, and our target beneficiaries:
 
-👉 **[Watch the Concept Video Here](YOUR_YOUTUBE_OR_VIDEO_LINK_HERE)**
+👉 **[Watch the Concept Video Here](https://youtu.be/3IA57upXWeg?si=rW5aTH2nuf7a3_9T)**
 
 ---
 
